@@ -1,0 +1,10 @@
+com\youyue\framework\client\YyServiceList.class
+com\youyue\framework\web\BaseController.class
+com\youyue\framework\model\response\ResponseResult.class
+com\youyue\framework\model\response\QueryResponseResult.class
+com\youyue\framework\model\response\CommonCode.class
+com\youyue\framework\MyAapplication.class
+com\youyue\framework\model\request\RequestData.class
+com\youyue\framework\model\response\QueryResult.class
+com\youyue\framework\model\response\ResultCode.class
+com\youyue\framework\model\response\Response.class

@@ -1,7 +1,210 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bde8648-569b-489b-afa5-c9e96261b7cb" name="Default Changelist" comment="" />
+    <list default="true" id="9bde8648-569b-489b-afa5-c9e96261b7cb" name="Default Changelist" comment="第一次提交项目">
+      <change afterPath="$PROJECT_DIR$/mongoDB/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongoDB/src/test/java/com/testMongoDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongoDB/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongoDB/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongoDB/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongoDB/target/mongoDB-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongoDB/target/test-classes/com/testMongoDB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/classes/com/youyue/framework/MyAapplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/classes/com/youyue/framework/client/YyServiceList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/classes/com/youyue/framework/model/request/RequestData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/classes/com/youyue/framework/model/response/CommonCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/classes/com/youyue/framework/model/response/QueryResponseResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/classes/com/youyue/framework/model/response/QueryResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/classes/com/youyue/framework/model/response/Response.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/classes/com/youyue/framework/model/response/ResponseResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/classes/com/youyue/framework/model/response/ResultCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/classes/com/youyue/framework/web/BaseController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/yy-framework-common-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/src/main/java/com/youyue/framework/domain/cms/request/QueryPageRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/cms/CmsConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/cms/CmsConfigModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/cms/CmsPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/cms/CmsPageParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/cms/CmsSite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/cms/CmsSiteServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/cms/CmsTemplate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/cms/ext/CmsPageExt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/cms/ext/CmsTemplateExt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/cms/request/QueryPageRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/cms/response/CmsCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/cms/response/CmsPageResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/cms/response/CoursePreviewResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/cms/response/GenerateHtmlResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/Category.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/CourseBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/CourseIndex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/CourseMarket.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/CourseOff.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/CoursePic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/CoursePre.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/CoursePub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/Teachplan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/TeachplanMedia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/ext/CategoryNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/ext/CategoryParameter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/ext/CourseInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/ext/TeachplanExt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/ext/TeachplanNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/ext/TeachplanParameter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/request/CourseListRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/response/AddCourseResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/response/CourseCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/response/DeleteCourseResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/filesystem/FileSystem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/filesystem/response/FileSystemCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/filesystem/response/UploadFileResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/learning/YyLearningCourse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/learning/YyLearningList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/media/MediaFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/media/MediaFileProcess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/media/MediaFileProcess_m3u8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/media/MediaVideoCourse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/media/MediaVideoCourseSimple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/media/request/QueryMediaFileRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/media/response/CheckChunkResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/media/response/MediaCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/media/response/MediaCourseResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/media/response/MediaFileResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/order/YyOrders.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/order/YyOrdersDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/order/YyOrdersPay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/order/request/CreateOrderRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/order/request/weixinPayInformRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/order/response/CreateOrderResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/order/response/OrderCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/order/response/OrderResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/order/response/PayOrderResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/order/response/PayQrcodeResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/portalview/PreViewCourse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/portalview/PreViewCourseMedia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/portalview/ViewCourse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/portalview/ViewCourseMedia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/portalview/response/PortalViewCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/report/ReportCompany.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/report/ReportCourse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/search/CourseSearchParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/system/SysDictionary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/system/SysDictionaryValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/task/YyTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/task/YyTaskHis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/test/UserTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/YyCompany.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/YyCompanyUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/YyMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/YyPermission.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/YyRole.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/YyTeacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/YyUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/YyUserRole.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/ext/AuthToken.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/ext/UserBasicInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/ext/UserToken.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/ext/UserTokenStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/ext/YyMenuExt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/ext/YyUserExt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/request/LoginRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/response/AuthCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/response/JwtResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/response/LoginResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/response/UcenterCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/starter/UtilsApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/utils/BCryptUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/utils/CookieUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/utils/GenerateOrderNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/utils/HlsVideoUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/utils/HttpClient$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/utils/HttpClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/utils/MD5Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/utils/Mp4VideoUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/utils/Oauth2Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/utils/Snowflake.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/utils/SnowflakeIdWorker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/utils/VideoUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/utils/YyOauth2Util$UserJwt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/utils/YyOauth2Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/utils/ZipUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/yy-framework-model-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/UtilsApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/utils/BCryptUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/utils/CookieUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/utils/GenerateOrderNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/utils/HlsVideoUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/utils/HttpClient$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/utils/HttpClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/utils/MD5Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/utils/Mp4VideoUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/utils/Oauth2Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/utils/Snowflake.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/utils/SnowflakeIdWorker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/utils/VideoUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/utils/YyOauth2Util$UserJwt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/utils/YyOauth2Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/utils/ZipUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/yy-framework-utils-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/src/main/java/com/youyue/manage_cms/ManageApplocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/src/main/java/com/youyue/manage_cms/controller/CmsPageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/src/main/java/com/youyue/manage_cms/dao/CmsPageRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/src/main/java/com/youyue/manage_cms/service/PageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/src/test/java/com/youyue/manage_cms/dao/CmsPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/classes/META-INF/yy-manager-service-cms.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/classes/com/youyue/manage_cms/ManageApplocation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/classes/com/youyue/manage_cms/controller/CmsPageController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/classes/com/youyue/manage_cms/dao/CmsPageRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/classes/com/youyue/manage_cms/service/PageService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/classes/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/test-classes/META-INF/yy-manager-service-cms.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/test-classes/com/youyue/manage_cms/dao/CmsPageTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/yy-manager-service-cms-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-service-api/src/main/java/com/youyue/api/cms/CmsPageControllerApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-service-api/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-service-api/target/classes/com/youyue/api/cms/CmsPageControllerApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-service-api/target/classes/com/youyue/api/config/Swagger2Configuration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-service-api/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-service-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-service-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-service-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-service-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-service-api/target/yy-service-api-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/yy-parent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/yy-parent.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yy-framework-common/yy-framework-common.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yy-framework-model/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yy-framework-model/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yy-framework-model/yy-framework-model.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yy-service-api/src/main/java/com/youyue/api/config/Swagger2Configuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/yy-service-api/src/main/java/com/youyue/api/config/Swagger2Configuration.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +213,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -17,11 +221,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\develop\demo2\yy-parent\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/tools/apache-maven-3.6.3" />
-        <option name="userSettingsFile" value="D:\tools\apache-maven-3.6.3\conf\settings.xml" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\develop\MAVEN\apache-maven-3.5.2\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -32,6 +243,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1XFBSv8ujeKyAQrB0XSZ5nytzGy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -46,11 +258,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/yy-framework-utils/src/main/java/youyue/me" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/yy-manager-service-cms/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\develop\demo2\yy-parent\yy-manager-service-cms\src\main\resources" />
       <recent name="E:\idea-projects\yy-parent\yy-framework-utils\src\main\java" />
       <recent name="E:\idea-projects\yy-parent\yy-service-api\src" />
       <recent name="E:\idea-projects\yy-parent\yy-framework-model\src" />
@@ -64,23 +280,91 @@
       </set>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="UtilsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="yy-framework-utils" />
+  <component name="RunManager" selected="Spring Boot.ManageApplocation">
+    <configuration name="CmsPageTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yy-manager-service-cms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.youyue.framework.*" />
+          <option name="PATTERN" value="com.youyue.manage_cms.dao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.youyue.framework.UtilsApplication" />
+      <option name="PACKAGE_NAME" value="com.youyue.manage_cms.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.youyue.manage_cms.dao.CmsPageTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmsPageTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yy-manager-service-cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.youyue.manage_cms.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.youyue.manage_cms.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.youyue.manage_cms.dao.CmsPageTest" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmsPageTest.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yy-manager-service-cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.youyue.manage_cms.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.youyue.manage_cms.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.youyue.manage_cms.dao.CmsPageTest" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmsPageTest.test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yy-manager-service-cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.youyue.manage_cms.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.youyue.manage_cms.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.youyue.manage_cms.dao.CmsPageTest" />
+      <option name="METHOD_NAME" value="test6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageApplocation" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="yy-manager-service-cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.youyue.manage_cms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.youyue.manage_cms.ManageApplocation" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.UtilsApplication" />
+        <item itemvalue="Spring Boot.ManageApplocation" />
+        <item itemvalue="JUnit.CmsPageTest.test6" />
+        <item itemvalue="JUnit.CmsPageTest.test5" />
+        <item itemvalue="JUnit.CmsPageTest.test4" />
+        <item itemvalue="JUnit.CmsPageTest.test3" />
       </list>
     </recent_temporary>
   </component>
@@ -93,6 +377,11 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
             </expand>
             <select />
@@ -112,69 +401,118 @@
       <option name="presentableId" value="Default" />
       <updated>1580631965184</updated>
       <workItem from="1580631968081" duration="1657000" />
-      <workItem from="1580713753320" duration="1380000" />
+      <workItem from="1580713753320" duration="2985000" />
+      <workItem from="1580777758223" duration="7578000" />
+      <workItem from="1580864178164" duration="5444000" />
+      <workItem from="1580872228694" duration="10161000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次提交项目">
+      <created>1580715449938</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580715449938</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交项目" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580633539726">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1580633539726" />
-    <state x="420" y="85" key="FileChooserDialogImpl" timestamp="1580715365609">
+    <state x="232" y="3" key="#Notifications" timestamp="1580715714680">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="420" y="85" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1580715365609" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1580633694673">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="232" y="3" key="#Notifications/0.0.1280.689@0.0.1280.689" timestamp="1580715714680" />
+    <state x="232" y="3" key="#Project_Structure" timestamp="1580798973292">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
+    <state x="232" y="3" key="#Project_Structure/0.0.1280.689@0.0.1280.689" timestamp="1580798973292" />
+    <state x="128" y="0" width="1147" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580777778763">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="128" y="0" width="1147" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1580777778763" />
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1580633539726" />
+    <state x="445" y="60" key="#com.intellij.ide.util.MemberChooser" timestamp="1580874109406">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="445" y="60" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1580874109406" />
+    <state x="249" y="0" key="CommitChangelistDialog2" timestamp="1580892065956">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="249" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1580892065956" />
+    <state x="142" y="78" key="FileChooserDialogImpl" timestamp="1580780681724">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="142" y="78" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1580780681724" />
+    <state x="511" y="235" width="486" height="220" key="Github.ShareDialog" timestamp="1580715665481">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="511" y="235" width="486" height="220" key="Github.ShareDialog/0.0.1280.689@0.0.1280.689" timestamp="1580715665481" />
+    <state width="843" height="154" key="GridCell.Tab.0.bottom" timestamp="1580891910577">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="843" height="154" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1580891910577" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580633694673" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1580633694673">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="843" height="154" key="GridCell.Tab.0.center" timestamp="1580891910576">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
+    <state width="843" height="154" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1580891910576" />
     <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580633694673" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1580633694673">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="843" height="154" key="GridCell.Tab.0.left" timestamp="1580891910576">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
+    <state width="843" height="154" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1580891910576" />
     <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580633694673" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1580633694673">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="843" height="154" key="GridCell.Tab.0.right" timestamp="1580891910576">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
+    <state width="843" height="154" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1580891910576" />
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580633694673" />
-    <state width="905" height="341" key="GridCell.Tab.1.bottom" timestamp="1580633689884">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="843" height="154" key="GridCell.Tab.1.bottom" timestamp="1580891910577">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
+    <state width="843" height="154" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1580891910577" />
     <state width="905" height="341" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580633689884" />
-    <state width="905" height="341" key="GridCell.Tab.1.center" timestamp="1580633689884">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="843" height="154" key="GridCell.Tab.1.center" timestamp="1580891910577">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
+    <state width="843" height="154" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1580891910577" />
     <state width="905" height="341" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1580633689884" />
-    <state width="905" height="341" key="GridCell.Tab.1.left" timestamp="1580633689884">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="843" height="154" key="GridCell.Tab.1.left" timestamp="1580891910577">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
+    <state width="843" height="154" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1580891910577" />
     <state width="905" height="341" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1580633689884" />
-    <state width="905" height="341" key="GridCell.Tab.1.right" timestamp="1580633689884">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="843" height="154" key="GridCell.Tab.1.right" timestamp="1580891910577">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
+    <state width="843" height="154" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1580891910577" />
     <state width="905" height="341" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1580633689884" />
     <state x="213" y="22" key="Maven.ArtifactSearchDialog" timestamp="1580632334868">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="22" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1580632334868" />
-    <state x="154" y="0" key="SettingsEditor" timestamp="1580715307519">
+    <state x="154" y="0" key="SettingsEditor" timestamp="1580869773988">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="154" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1580715307519" />
+    <state x="154" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1580869773988" />
     <state x="482" y="144" key="chooseDestDirectoryDialog" timestamp="1580632212300">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="482" y="144" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1580632212300" />
-    <state x="57" y="68" key="new project wizard" timestamp="1580632897658">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1580872228536">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1580872228536" />
+    <state x="53" y="0" key="new project wizard" timestamp="1580870274354">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="53" y="0" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1580870274354" />
     <state x="57" y="68" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1580632897658" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1580633355591">
       <screen x="0" y="0" width="1366" height="728" />
