@@ -1,209 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bde8648-569b-489b-afa5-c9e96261b7cb" name="Default Changelist" comment="第一次提交项目">
-      <change afterPath="$PROJECT_DIR$/mongoDB/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongoDB/src/test/java/com/testMongoDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongoDB/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongoDB/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongoDB/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongoDB/target/mongoDB-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongoDB/target/test-classes/com/testMongoDB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/classes/com/youyue/framework/MyAapplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/classes/com/youyue/framework/client/YyServiceList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/classes/com/youyue/framework/model/request/RequestData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/classes/com/youyue/framework/model/response/CommonCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/classes/com/youyue/framework/model/response/QueryResponseResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/classes/com/youyue/framework/model/response/QueryResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/classes/com/youyue/framework/model/response/Response.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/classes/com/youyue/framework/model/response/ResponseResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/classes/com/youyue/framework/model/response/ResultCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/classes/com/youyue/framework/web/BaseController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-common/target/yy-framework-common-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/src/main/java/com/youyue/framework/domain/cms/request/QueryPageRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/cms/CmsConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/cms/CmsConfigModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/cms/CmsPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/cms/CmsPageParam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/cms/CmsSite.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/cms/CmsSiteServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/cms/CmsTemplate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/cms/ext/CmsPageExt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/cms/ext/CmsTemplateExt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/cms/request/QueryPageRequest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/cms/response/CmsCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/cms/response/CmsPageResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/cms/response/CoursePreviewResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/cms/response/GenerateHtmlResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/Category.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/CourseBase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/CourseIndex.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/CourseMarket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/CourseOff.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/CoursePic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/CoursePre.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/CoursePub.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/Teachplan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/TeachplanMedia.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/ext/CategoryNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/ext/CategoryParameter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/ext/CourseInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/ext/TeachplanExt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/ext/TeachplanNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/ext/TeachplanParameter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/request/CourseListRequest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/response/AddCourseResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/response/CourseCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/course/response/DeleteCourseResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/filesystem/FileSystem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/filesystem/response/FileSystemCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/filesystem/response/UploadFileResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/learning/YyLearningCourse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/learning/YyLearningList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/media/MediaFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/media/MediaFileProcess.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/media/MediaFileProcess_m3u8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/media/MediaVideoCourse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/media/MediaVideoCourseSimple.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/media/request/QueryMediaFileRequest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/media/response/CheckChunkResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/media/response/MediaCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/media/response/MediaCourseResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/media/response/MediaFileResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/order/YyOrders.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/order/YyOrdersDetail.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/order/YyOrdersPay.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/order/request/CreateOrderRequest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/order/request/weixinPayInformRequest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/order/response/CreateOrderResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/order/response/OrderCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/order/response/OrderResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/order/response/PayOrderResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/order/response/PayQrcodeResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/portalview/PreViewCourse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/portalview/PreViewCourseMedia.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/portalview/ViewCourse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/portalview/ViewCourseMedia.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/portalview/response/PortalViewCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/report/ReportCompany.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/report/ReportCourse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/search/CourseSearchParam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/system/SysDictionary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/system/SysDictionaryValue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/task/YyTask.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/task/YyTaskHis.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/test/UserTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/YyCompany.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/YyCompanyUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/YyMenu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/YyPermission.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/YyRole.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/YyTeacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/YyUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/YyUserRole.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/ext/AuthToken.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/ext/UserBasicInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/ext/UserToken.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/ext/UserTokenStore.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/ext/YyMenuExt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/ext/YyUserExt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/request/LoginRequest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/response/AuthCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/response/JwtResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/response/LoginResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/domain/ucenter/response/UcenterCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/starter/UtilsApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/utils/BCryptUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/utils/CookieUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/utils/GenerateOrderNum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/utils/HlsVideoUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/utils/HttpClient$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/utils/HttpClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/utils/MD5Util.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/utils/Mp4VideoUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/utils/Oauth2Util.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/utils/Snowflake.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/utils/SnowflakeIdWorker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/utils/VideoUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/utils/YyOauth2Util$UserJwt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/utils/YyOauth2Util.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/classes/com/youyue/framework/utils/ZipUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-model/target/yy-framework-model-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/UtilsApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/utils/BCryptUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/utils/CookieUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/utils/GenerateOrderNum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/utils/HlsVideoUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/utils/HttpClient$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/utils/HttpClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/utils/MD5Util.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/utils/Mp4VideoUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/utils/Oauth2Util.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/utils/Snowflake.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/utils/SnowflakeIdWorker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/utils/VideoUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/utils/YyOauth2Util$UserJwt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/utils/YyOauth2Util.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/classes/com/youyue/framework/utils/ZipUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-framework-utils/target/yy-framework-utils-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/src/main/java/com/youyue/manage_cms/ManageApplocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/src/main/java/com/youyue/manage_cms/controller/CmsPageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/src/main/java/com/youyue/manage_cms/dao/CmsPageRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/src/main/java/com/youyue/manage_cms/service/PageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/src/test/java/com/youyue/manage_cms/dao/CmsPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/classes/META-INF/yy-manager-service-cms.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/classes/com/youyue/manage_cms/ManageApplocation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/classes/com/youyue/manage_cms/controller/CmsPageController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/classes/com/youyue/manage_cms/dao/CmsPageRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/classes/com/youyue/manage_cms/service/PageService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/classes/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/test-classes/META-INF/yy-manager-service-cms.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/test-classes/com/youyue/manage_cms/dao/CmsPageTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/yy-manager-service-cms-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-service-api/src/main/java/com/youyue/api/cms/CmsPageControllerApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-service-api/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-service-api/target/classes/com/youyue/api/cms/CmsPageControllerApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-service-api/target/classes/com/youyue/api/config/Swagger2Configuration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-service-api/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-service-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-service-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-service-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-service-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yy-service-api/target/yy-service-api-1.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+    <list default="true" id="9bde8648-569b-489b-afa5-c9e96261b7cb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/yy-parent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/yy-parent.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yy-framework-common/yy-framework-common.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yy-framework-model/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yy-framework-model/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yy-framework-model/yy-framework-model.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yy-service-api/src/main/java/com/youyue/api/config/Swagger2Configuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/yy-service-api/src/main/java/com/youyue/api/config/Swagger2Configuration.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -404,7 +203,7 @@
       <workItem from="1580713753320" duration="2985000" />
       <workItem from="1580777758223" duration="7578000" />
       <workItem from="1580864178164" duration="5444000" />
-      <workItem from="1580872228694" duration="10161000" />
+      <workItem from="1580872228694" duration="10415000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交项目">
       <created>1580715449938</created>
@@ -413,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580715449938</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第二次提交项目">
+      <created>1580892123974</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580892123974</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -421,7 +227,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交项目" />
+    <MESSAGE value="第二次提交项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次提交项目" />
   </component>
   <component name="WindowStateProjectService">
     <state x="232" y="3" key="#Notifications" timestamp="1580715714680">
@@ -441,10 +248,10 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="445" y="60" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1580874109406" />
-    <state x="249" y="0" key="CommitChangelistDialog2" timestamp="1580892065956">
+    <state x="249" y="0" key="CommitChangelistDialog2" timestamp="1580892122169">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="249" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1580892065956" />
+    <state x="249" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1580892122169" />
     <state x="142" y="78" key="FileChooserDialogImpl" timestamp="1580780681724">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
