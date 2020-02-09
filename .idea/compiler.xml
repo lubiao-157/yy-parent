@@ -7,12 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="yy-framework-common" />
-        <module name="yy-framework-utils" />
-        <module name="yy-framework-model" />
-        <module name="mongoDB" />
-        <module name="yy-manager-service-cms" />
         <module name="yy-service-api" />
+        <module name="yy-framework-model" />
         <module name="yy-service-manager-cms" />
+        <module name="yy-manager-service-cms" />
+        <module name="mongoDB" />
+        <module name="yy-framework-utils" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

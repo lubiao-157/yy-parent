@@ -8,5 +8,12 @@ import org.springframework.data.mongodb.repository.MongoRepository;
  */
 public interface CmsPageRepository extends MongoRepository<CmsPage,String> {
 
+    /**
+     * 分页查询
+     * @param pageName  //按照页面名称查询
+     * @return
+     */
     CmsPage findByPageName(String pageName);
+
+    public CmsPage findByPageNameAndSiteIdAndPageWebPath(String pageName,String siteId,String pageWebPath);
 }

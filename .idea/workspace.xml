@@ -2,7 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bde8648-569b-489b-afa5-c9e96261b7cb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/src/main/java/com/youyue/manage_cms/controller/CmsSiteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/src/main/java/com/youyue/manage_cms/controller/CmsTempalteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/src/main/java/com/youyue/manage_cms/dao/CmsSiteRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/src/main/java/com/youyue/manage_cms/dao/CmsTemplateRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/src/main/java/com/youyue/manage_cms/service/SiteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-manager-service-cms/src/main/java/com/youyue/manage_cms/service/TemplateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-service-api/src/main/java/com/youyue/api/cms/CmsSiteControllerApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yy-service-api/src/main/java/com/youyue/api/cms/CmsTemplateControllerApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yy-manager-service-cms/src/main/java/com/youyue/manage_cms/controller/CmsPageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/yy-manager-service-cms/src/main/java/com/youyue/manage_cms/controller/CmsPageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yy-manager-service-cms/src/main/java/com/youyue/manage_cms/dao/CmsPageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/yy-manager-service-cms/src/main/java/com/youyue/manage_cms/dao/CmsPageRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yy-manager-service-cms/src/main/java/com/youyue/manage_cms/service/PageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/yy-manager-service-cms/src/main/java/com/youyue/manage_cms/service/PageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yy-manager-service-cms/src/test/java/com/youyue/manage_cms/dao/CmsPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/yy-manager-service-cms/src/test/java/com/youyue/manage_cms/dao/CmsPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yy-manager-service-cms/target/classes/com/youyue/manage_cms/controller/CmsPageController.class" beforeDir="false" afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/classes/com/youyue/manage_cms/controller/CmsPageController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yy-manager-service-cms/target/classes/com/youyue/manage_cms/dao/CmsPageRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/classes/com/youyue/manage_cms/dao/CmsPageRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yy-manager-service-cms/target/classes/com/youyue/manage_cms/service/PageService.class" beforeDir="false" afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/classes/com/youyue/manage_cms/service/PageService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yy-manager-service-cms/target/test-classes/com/youyue/manage_cms/dao/CmsPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/yy-manager-service-cms/target/test-classes/com/youyue/manage_cms/dao/CmsPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yy-service-api/src/main/java/com/youyue/api/cms/CmsPageControllerApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/yy-service-api/src/main/java/com/youyue/api/cms/CmsPageControllerApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yy-service-api/target/classes/com/youyue/api/cms/CmsPageControllerApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/yy-service-api/target/classes/com/youyue/api/cms/CmsPageControllerApi.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,22 +99,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.ManageApplocation">
-    <configuration name="CmsPageTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="yy-manager-service-cms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.youyue.manage_cms.dao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.youyue.manage_cms.dao" />
-      <option name="MAIN_CLASS_NAME" value="com.youyue.manage_cms.dao.CmsPageTest" />
-      <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="CmsPageTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="yy-manager-service-cms" />
       <extension name="coverage">
@@ -144,6 +147,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CmsPageTest.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yy-manager-service-cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.youyue.manage_cms.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.youyue.manage_cms.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.youyue.manage_cms.dao.CmsPageTest" />
+      <option name="METHOD_NAME" value="test7" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ManageApplocation" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="yy-manager-service-cms" />
       <extension name="coverage">
@@ -157,13 +176,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.CmsPageTest.test4" />
+      <item itemvalue="JUnit.CmsPageTest.test5" />
+      <item itemvalue="JUnit.CmsPageTest.test6" />
+      <item itemvalue="Spring Boot.ManageApplocation" />
+      <item itemvalue="JUnit.CmsPageTest.test7" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.ManageApplocation" />
+        <item itemvalue="JUnit.CmsPageTest.test7" />
         <item itemvalue="JUnit.CmsPageTest.test6" />
         <item itemvalue="JUnit.CmsPageTest.test5" />
         <item itemvalue="JUnit.CmsPageTest.test4" />
-        <item itemvalue="JUnit.CmsPageTest.test3" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +216,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\DELL\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -203,7 +229,12 @@
       <workItem from="1580713753320" duration="2985000" />
       <workItem from="1580777758223" duration="7578000" />
       <workItem from="1580864178164" duration="5444000" />
-      <workItem from="1580872228694" duration="10747000" />
+      <workItem from="1580872228694" duration="12519000" />
+      <workItem from="1580958706688" duration="760000" />
+      <workItem from="1580973281647" duration="41000" />
+      <workItem from="1581062715298" duration="2040000" />
+      <workItem from="1581152376005" duration="745000" />
+      <workItem from="1581210127641" duration="15875000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交项目">
       <created>1580715449938</created>
@@ -244,7 +275,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -260,70 +293,70 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="232" y="3" key="#Notifications/0.0.1280.689@0.0.1280.689" timestamp="1580715714680" />
-    <state x="232" y="3" key="#Project_Structure" timestamp="1580798973292">
+    <state x="232" y="3" key="#Project_Structure" timestamp="1581220242051">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="232" y="3" key="#Project_Structure/0.0.1280.689@0.0.1280.689" timestamp="1580798973292" />
+    <state x="232" y="3" key="#Project_Structure/0.0.1280.689@0.0.1280.689" timestamp="1581220242051" />
     <state x="128" y="0" width="1147" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580777778763">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="128" y="0" width="1147" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1580777778763" />
     <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1580633539726" />
-    <state x="445" y="60" key="#com.intellij.ide.util.MemberChooser" timestamp="1580874109406">
+    <state x="445" y="60" key="#com.intellij.ide.util.MemberChooser" timestamp="1581241119766">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="445" y="60" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1580874109406" />
+    <state x="445" y="60" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1581241119766" />
     <state x="249" y="0" key="CommitChangelistDialog2" timestamp="1580892361938">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="249" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1580892361938" />
-    <state x="142" y="78" key="FileChooserDialogImpl" timestamp="1580780681724">
+    <state x="142" y="78" key="FileChooserDialogImpl" timestamp="1581252948250">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="142" y="78" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1580780681724" />
+    <state x="142" y="78" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1581252948250" />
     <state x="511" y="235" width="486" height="220" key="Github.ShareDialog" timestamp="1580715665481">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="511" y="235" width="486" height="220" key="Github.ShareDialog/0.0.1280.689@0.0.1280.689" timestamp="1580715665481" />
-    <state width="843" height="154" key="GridCell.Tab.0.bottom" timestamp="1580891910577">
+    <state width="843" height="124" key="GridCell.Tab.0.bottom" timestamp="1581253284431">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="843" height="154" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1580891910577" />
+    <state width="843" height="124" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1581253284431" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580633694673" />
-    <state width="843" height="154" key="GridCell.Tab.0.center" timestamp="1580891910576">
+    <state width="843" height="124" key="GridCell.Tab.0.center" timestamp="1581253284431">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="843" height="154" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1580891910576" />
+    <state width="843" height="124" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1581253284431" />
     <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580633694673" />
-    <state width="843" height="154" key="GridCell.Tab.0.left" timestamp="1580891910576">
+    <state width="843" height="124" key="GridCell.Tab.0.left" timestamp="1581253284430">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="843" height="154" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1580891910576" />
+    <state width="843" height="124" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1581253284430" />
     <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580633694673" />
-    <state width="843" height="154" key="GridCell.Tab.0.right" timestamp="1580891910576">
+    <state width="843" height="124" key="GridCell.Tab.0.right" timestamp="1581253284431">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="843" height="154" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1580891910576" />
+    <state width="843" height="124" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1581253284431" />
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580633694673" />
-    <state width="843" height="154" key="GridCell.Tab.1.bottom" timestamp="1580891910577">
+    <state width="843" height="124" key="GridCell.Tab.1.bottom" timestamp="1581253284432">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="843" height="154" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1580891910577" />
+    <state width="843" height="124" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1581253284432" />
     <state width="905" height="341" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580633689884" />
-    <state width="843" height="154" key="GridCell.Tab.1.center" timestamp="1580891910577">
+    <state width="843" height="124" key="GridCell.Tab.1.center" timestamp="1581253284432">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="843" height="154" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1580891910577" />
+    <state width="843" height="124" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1581253284432" />
     <state width="905" height="341" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1580633689884" />
-    <state width="843" height="154" key="GridCell.Tab.1.left" timestamp="1580891910577">
+    <state width="843" height="124" key="GridCell.Tab.1.left" timestamp="1581253284431">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="843" height="154" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1580891910577" />
+    <state width="843" height="124" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1581253284431" />
     <state width="905" height="341" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1580633689884" />
-    <state width="843" height="154" key="GridCell.Tab.1.right" timestamp="1580891910577">
+    <state width="843" height="124" key="GridCell.Tab.1.right" timestamp="1581253284432">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="843" height="154" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1580891910577" />
+    <state width="843" height="124" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1581253284432" />
     <state width="905" height="341" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1580633689884" />
     <state x="213" y="22" key="Maven.ArtifactSearchDialog" timestamp="1580632334868">
       <screen x="0" y="0" width="1366" height="728" />
@@ -333,14 +366,18 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="154" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1580869773988" />
+    <state x="232" y="77" key="Vcs.Push.Dialog.v2" timestamp="1580892928282">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="232" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1580892928282" />
     <state x="482" y="144" key="chooseDestDirectoryDialog" timestamp="1580632212300">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="482" y="144" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1580632212300" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1580872228536">
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1581210133158">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1580872228536" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1581210133158" />
     <state x="53" y="0" key="new project wizard" timestamp="1580870274354">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
@@ -350,5 +387,20 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1580633355591" />
+    <state x="470" y="135" key="svn.repositoryBrowser" timestamp="1581252937235">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="470" y="135" key="svn.repositoryBrowser/0.0.1280.689@0.0.1280.689" timestamp="1581252937235" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yy-manager-service-cms/src/test/java/com/youyue/manage_cms/dao/CmsPageTest.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

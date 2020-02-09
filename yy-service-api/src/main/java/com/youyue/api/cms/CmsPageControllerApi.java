@@ -1,6 +1,8 @@
 package com.youyue.api.cms;
 
+import com.youyue.framework.domain.cms.CmsPage;
 import com.youyue.framework.domain.cms.request.QueryPageRequest;
+import com.youyue.framework.domain.cms.response.CmsPageResult;
 import com.youyue.framework.model.response.QueryResponseResult;
 
 /**
@@ -9,4 +11,8 @@ import com.youyue.framework.model.response.QueryResponseResult;
 public interface CmsPageControllerApi {
     //条件分页查询
     QueryResponseResult findList(int page, int size, QueryPageRequest queryPageRequest );
+
+    public CmsPageResult add(CmsPage cmsPage);
+
+
 }
